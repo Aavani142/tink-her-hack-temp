@@ -67,8 +67,9 @@ Frameworks:
 - Vite
 
 Libraries:
-- Gesture Recognition (Teachable Machine / Computer Vision)
-- Three.js / WebGL for 3D avatar
+- Gesture Recognition (Teachable Machine)
+- Maximo for 3D avatar
+- Plask Motion for Motion
 
 Tools:
 - Git & GitHub
