@@ -1,16 +1,85 @@
-# React + Vite
+![Tink Her Hack Banner](https://private-user-images.githubusercontent.com/184813049/549763122-ae874b67-ae66-4175-ac8c-5d97a9c397e1.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# SignBridge 🎯
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Basic Details
 
-## React Compiler
+### Team Name
+SignBridge Innovators
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### Team Members
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Aavani U B — Engineering Student  
+- Add Member Name — College  
+- Add Member Name — College  
+
+---
+
+## Project Description
+
+SignBridge is a real-time AI-powered communication system that bridges the gap between sign language users and non-sign-language users.
+
+It enables seamless two-way interaction by converting hand gestures into text and generating sign language through a 3D avatar from text input.
+
+This makes communication easier, faster, and more inclusive in everyday environments.
+
+---
+
+## The Problem (that doesn't exist)
+
+Deaf and mute individuals face major communication barriers in public spaces because most people do not understand sign language.  
+Existing solutions are expensive, hardware-heavy, or not practical for real-time everyday communication.
+
+This creates social isolation and limits accessibility.
+
+---
+
+## The Solution (that nobody asked for)
+
+SignBridge provides a two-way communication bridge:
+
+### ✋ Sign ➜ Text
+Camera detects hand gestures and converts them into readable text in real time.
+
+### 💬 Text ➜ Sign
+User enters text and a 3D avatar performs sign language visually.
+
+This allows smooth communication between both groups without needing interpreters or special devices.
+
+---
+
+## Technical Details
+
+### Technologies / Components Used
+
+#### For Software
+
+Languages:
+- JavaScript
+
+Frameworks:
+- React.js
+- Tailwind CSS
+- Vite
+
+Libraries:
+- Gesture Recognition (Teachable Machine / Computer Vision)
+- Three.js / WebGL for 3D avatar
+
+Tools:
+- Git & GitHub
+
+---
+
+## Implementation
+
+### Installation
+
+```bash
+git clone https://github.com/Aavani142/tink-her-hack-temp.git
+cd tink-her-hack-temp
+npm install
