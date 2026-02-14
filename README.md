@@ -1,4 +1,5 @@
-![Tink Her Hack Banner](https://private-user-images.githubusercontent.com/184813049/549763122-ae874b67-ae66-4175-ac8c-5d97a9c397e1.png)
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/2de97c40-a4c6-4f02-afbb-877312c78bd3" />
+
 
 # SignBridge 🎯
 
@@ -13,9 +14,12 @@ SignBridge Innovators
 
 ### Team Members
 
-- Aavani U B — Engineering Student  
-- Add Member Name — College  
-- Add Member Name — College  
+- Aavani U B — Engineering Student    
+
+Hosted Project Link
+
+https://signbridge-dv79.onrender.com/
+
 
 ---
 
@@ -62,25 +66,64 @@ Languages:
 - JavaScript
 
 Frameworks:
-- React.js
-- Tailwind CSS
-- Vite
+-React.js (Frontend)
+-Teachable Machine (ML model)
 
 Libraries:
 - Gesture Recognition (Teachable Machine)
 - Maximo for 3D avatar
+- MediaPipe (hand tracking)
 - Plask Motion for Motion
 
 Tools:
 - Git & GitHub
 
+## Features
+
+Feature 1: Real-time sign language detection using webcam
+Feature 2: Instant conversion of gestures into text output
+Feature 3: AI-powered hand tracking and gesture recognition  
+Feature 4: User-friendly web interface for accessibility
 ---
+## Project Documentation
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/c539326d-cd6d-4705-9938-bb360edd2e74" />
 
-## Implementation
+<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/097c4bf8-7051-4565-9a52-a24d24b7207e" />
 
-### Installation
+<img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/1ac54787-c373-408f-8605-31e164e18009" />
 
-```bash
-git clone https://github.com/Aavani142/tink-her-hack-temp.git
-cd tink-her-hack-temp
-npm install
+<img width="1147" height="932" alt="image" src="https://github.com/user-attachments/assets/ddfd8a1e-6b8e-48e6-8830-48b2e26c8c10" />
+
+
+
+## AI Tools Used (For Transparency Bonus)
+
+Tool Used: ChatGPT
+Purpose:
+Guidance for building real-time sign language recognition system
+Help with integrating MediaPipe and TensorFlow model
+Debugging camera access and gesture detection issues
+Generating frontend UI structure using React
+Assistance in project documentation and architecture planning
+
+### Key Prompts Used:
+“Build a real-time hand gesture recognition system using webcam”
+“How to integrate MediaPipe hand tracking with a machine learning model”
+“Debug webcam not opening in browser JavaScript”
+“Convert Teachable Machine model for web deployment”
+“Design architecture for sign language to text translation system”
+
+### Percentage of AI-generated code
+
+Approximately 20–30%
+(Mostly boilerplate setup, debugging suggestions, and structural guidance)
+
+### Human Contributions
+
+Complete project idea and problem identification
+System architecture design and workflow planning
+Training and testing the gesture recognition model
+Custom business logic implementation
+Frontend UI/UX design and user interaction flow
+Integration of ML model with web interface
+Testing, optimization, and deployment
